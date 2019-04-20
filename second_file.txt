@@ -1,2 +1,6 @@
 This is the second file to check the file count
+<<<<<<< HEAD
 This line is newly added.
+=======
+This line is added in the browser
+>>>>>>> a7d29e5216cdd6c5eb8026f3fac0ae977ec3b9eb
