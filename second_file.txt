@@ -1,1 +1,2 @@
 This is the second file to check the file count
+This line is newly added.
