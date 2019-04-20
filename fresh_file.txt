@@ -1,3 +1,4 @@
 This is a new file
 This is a line added from the Chrome
 This line added to check another branch
+This line added in vi-editor to check the file edit movement to the GITHUB
